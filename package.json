@@ -1,0 +1,23 @@
+{
+  "name": "BackUP",
+  "version": "1.0.0",
+  "description": "Backup the Jawbone UP",
+  "main": "index.js",
+  "dependencies": {
+    "jawbone-up": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phillipadsmith/jawbone-backUP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipadsmith/jawbone-backUP/issues"
+  },
+  "homepage": "https://github.com/phillipadsmith/jawbone-backUP"
+}
